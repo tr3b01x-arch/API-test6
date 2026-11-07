@@ -1,0 +1,8 @@
+services:
+  - type: web
+    name: restaurant-group-mock-apis
+    runtime: node
+    plan: free
+    buildCommand: npm install
+    startCommand: npm start
+    healthCheckPath: /health

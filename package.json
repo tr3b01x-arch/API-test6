@@ -1,0 +1,14 @@
+{
+  "name": "restaurant-group-mock-api-suite",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Seven separate restaurant mock APIs served from one Render web service",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "node test.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

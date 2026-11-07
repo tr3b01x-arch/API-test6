@@ -1,0 +1,1 @@
+module.exports = function cors(){ return (_req,res,next)=>{res.setHeader("access-control-allow-origin","*");res.setHeader("access-control-allow-methods","GET,OPTIONS");res.setHeader("access-control-allow-headers","Content-Type");next();}; };

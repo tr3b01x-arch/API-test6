@@ -1,0 +1,354 @@
+[
+  {
+    "id": "at-edmondo-austria",
+    "name": "Edmondo Austria",
+    "country": "Austria",
+    "city": "Vienna",
+    "currency": "EUR",
+    "active": true
+  },
+  {
+    "id": "be-barracuda",
+    "name": "Barracuda",
+    "country": "Belgium",
+    "city": null,
+    "currency": "EUR",
+    "active": true
+  },
+  {
+    "id": "fr-biglove",
+    "name": "Biglove",
+    "country": "France",
+    "city": null,
+    "currency": "EUR",
+    "active": true
+  },
+  {
+    "id": "fr-carmelo",
+    "name": "Carmelo",
+    "country": "France",
+    "city": null,
+    "currency": "EUR",
+    "active": true
+  },
+  {
+    "id": "fr-east-mamma",
+    "name": "East Mamma",
+    "country": "France",
+    "city": null,
+    "currency": "EUR",
+    "active": true
+  },
+  {
+    "id": "fr-giacomo",
+    "name": "Giacomo",
+    "country": "France",
+    "city": null,
+    "currency": "EUR",
+    "active": true
+  },
+  {
+    "id": "fr-gloria-paris",
+    "name": "Gloria Paris",
+    "country": "France",
+    "city": null,
+    "currency": "EUR",
+    "active": true
+  },
+  {
+    "id": "fr-la-bellezza-lille",
+    "name": "La Bellezza Lille",
+    "country": "France",
+    "city": null,
+    "currency": "EUR",
+    "active": true
+  },
+  {
+    "id": "fr-la-felicit",
+    "name": "La Felicità",
+    "country": "France",
+    "city": null,
+    "currency": "EUR",
+    "active": true
+  },
+  {
+    "id": "fr-libertino",
+    "name": "Libertino",
+    "country": "France",
+    "city": null,
+    "currency": "EUR",
+    "active": true
+  },
+  {
+    "id": "fr-mamma-primi",
+    "name": "Mamma Primi",
+    "country": "France",
+    "city": null,
+    "currency": "EUR",
+    "active": true
+  },
+  {
+    "id": "fr-ober-mamma",
+    "name": "Ober Mamma",
+    "country": "France",
+    "city": null,
+    "currency": "EUR",
+    "active": true
+  },
+  {
+    "id": "fr-palatino",
+    "name": "Palatino",
+    "country": "France",
+    "city": null,
+    "currency": "EUR",
+    "active": true
+  },
+  {
+    "id": "fr-pink-mamma",
+    "name": "Pink Mamma",
+    "country": "France",
+    "city": null,
+    "currency": "EUR",
+    "active": true
+  },
+  {
+    "id": "fr-pizzeria-popolare",
+    "name": "Pizzeria Popolare",
+    "country": "France",
+    "city": null,
+    "currency": "EUR",
+    "active": true
+  },
+  {
+    "id": "fr-splendido",
+    "name": "Splendido",
+    "country": "France",
+    "city": null,
+    "currency": "EUR",
+    "active": true
+  },
+  {
+    "id": "de-circolo-popolare-berlin",
+    "name": "Circolo Popolare Berlin",
+    "country": "Germany",
+    "city": "Berlin",
+    "currency": "EUR",
+    "active": true
+  },
+  {
+    "id": "de-coccodrillo",
+    "name": "Coccodrillo",
+    "country": "Germany",
+    "city": null,
+    "currency": "EUR",
+    "active": true
+  },
+  {
+    "id": "de-edmondo-hamburg",
+    "name": "Edmondo Hamburg",
+    "country": "Germany",
+    "city": null,
+    "currency": "EUR",
+    "active": true
+  },
+  {
+    "id": "de-giorgia",
+    "name": "Giorgia",
+    "country": "Germany",
+    "city": null,
+    "currency": "EUR",
+    "active": true
+  },
+  {
+    "id": "de-pamela-berlin",
+    "name": "Pamela Berlin",
+    "country": "Germany",
+    "city": null,
+    "currency": "EUR",
+    "active": true
+  },
+  {
+    "id": "ie-gloria-dublin",
+    "name": "Gloria Dublin",
+    "country": "Ireland",
+    "city": null,
+    "currency": "EUR",
+    "active": true
+  },
+  {
+    "id": "it-gloria-milan",
+    "name": "Gloria Milan",
+    "country": "Italy",
+    "city": "Milan",
+    "currency": "EUR",
+    "active": true
+  },
+  {
+    "id": "jp-nina-tokyo",
+    "name": "Nina Tokyo",
+    "country": "Japan",
+    "city": "Tokyo",
+    "currency": "JPY",
+    "active": true
+  },
+  {
+    "id": "mx-la-bellezza-mexico",
+    "name": "La Bellezza Mexico",
+    "country": "Mexico",
+    "city": null,
+    "currency": "MXN",
+    "active": true
+  },
+  {
+    "id": "es-bel-mondo",
+    "name": "Bel Mondo",
+    "country": "Spain",
+    "city": null,
+    "currency": "EUR",
+    "active": true
+  },
+  {
+    "id": "es-circolo-popolare-barcelona",
+    "name": "Circolo Popolare Barcelona",
+    "country": "Spain",
+    "city": null,
+    "currency": "EUR",
+    "active": true
+  },
+  {
+    "id": "es-circolo-popolare-madrid",
+    "name": "Circolo Popolare Madrid",
+    "country": "Spain",
+    "city": null,
+    "currency": "EUR",
+    "active": true
+  },
+  {
+    "id": "es-gloria-barcelona",
+    "name": "Gloria Barcelona",
+    "country": "Spain",
+    "city": null,
+    "currency": "EUR",
+    "active": true
+  },
+  {
+    "id": "es-villa-capri",
+    "name": "Villa Capri",
+    "country": "Spain",
+    "city": null,
+    "currency": "EUR",
+    "active": true
+  },
+  {
+    "id": "ch-mamma-primi-switzerland",
+    "name": "Mamma Primi - Switzerland",
+    "country": "Switzerland",
+    "city": null,
+    "currency": "CHF",
+    "active": true
+  },
+  {
+    "id": "ae-gloria-dubai",
+    "name": "Gloria Dubai",
+    "country": "United Arab Emirates",
+    "city": null,
+    "currency": "AED",
+    "active": true
+  },
+  {
+    "id": "uk-ave-mario",
+    "name": "Ave Mario",
+    "country": "United Kingdom",
+    "city": null,
+    "currency": "GBP",
+    "active": true
+  },
+  {
+    "id": "uk-barbarella",
+    "name": "Barbarella",
+    "country": "United Kingdom",
+    "city": null,
+    "currency": "GBP",
+    "active": true
+  },
+  {
+    "id": "uk-carlotta",
+    "name": "Carlotta",
+    "country": "United Kingdom",
+    "city": null,
+    "currency": "GBP",
+    "active": true
+  },
+  {
+    "id": "uk-circolo-popolare-london",
+    "name": "Circolo Popolare London",
+    "country": "United Kingdom",
+    "city": "London",
+    "currency": "GBP",
+    "active": true
+  },
+  {
+    "id": "uk-circolo-popolare-manchester",
+    "name": "Circolo Popolare Manchester",
+    "country": "United Kingdom",
+    "city": null,
+    "currency": "GBP",
+    "active": true
+  },
+  {
+    "id": "uk-edmondo-london",
+    "name": "Edmondo London",
+    "country": "United Kingdom",
+    "city": null,
+    "currency": "GBP",
+    "active": true
+  },
+  {
+    "id": "uk-gloria-london",
+    "name": "Gloria London",
+    "country": "United Kingdom",
+    "city": "London",
+    "currency": "GBP",
+    "active": true
+  },
+  {
+    "id": "uk-gloria-shoreditch",
+    "name": "Gloria Shoreditch",
+    "country": "United Kingdom",
+    "city": "London",
+    "currency": "GBP",
+    "active": true
+  },
+  {
+    "id": "uk-jacuzzi",
+    "name": "Jacuzzi",
+    "country": "United Kingdom",
+    "city": null,
+    "currency": "GBP",
+    "active": true
+  },
+  {
+    "id": "uk-la-bellezza-birmingham",
+    "name": "La Bellezza Birmingham",
+    "country": "United Kingdom",
+    "city": null,
+    "currency": "GBP",
+    "active": true
+  },
+  {
+    "id": "us-carmines-market",
+    "name": "Carmine's Market",
+    "country": "United States",
+    "city": null,
+    "currency": "USD",
+    "active": true
+  },
+  {
+    "id": "us-carmines-trattoria",
+    "name": "Carmine's Trattoria",
+    "country": "United States",
+    "city": null,
+    "currency": "USD",
+    "active": true
+  }
+]
